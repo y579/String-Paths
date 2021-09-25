@@ -1,5 +1,5 @@
 {
-  "name": "Path-util",
+  "name": "String-Paths",
   "license": "MIT",
   "tags": ["formats", "paths"],
   "description": "Make paths better cuz they sorta bad lol",
