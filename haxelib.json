@@ -1,9 +1,9 @@
 {
   "name": "Path-util",
   "license": "MIT",
-  "tags": ["openfl","cpp","neko","webm","mkv","vp8","vorbis","video","formats"],
+  "tags": ["formats", "paths"],
   "description": "Make paths better cuz they sorta bad lol",
-  "contributors": ["singmajesty", "soywiz"],
+  "contributors": ["y579"],
   "releasenote": "Build fixes",
   "version": "1",
   "url": "https://github.com/y579/String-Paths",
